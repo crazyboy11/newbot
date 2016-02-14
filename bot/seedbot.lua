@@ -212,6 +212,7 @@ function create_config( )
     "lockchat",
     "info",
     "pluginns",
+    "plugins",
     "inrealm",
     "ingroup",
     "inpm",
@@ -252,7 +253,7 @@ function create_config( )
     "left",
     "support",
     },
-    sudo_users = {144152859},--Sudo users
+    sudo_users = {172178919},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
