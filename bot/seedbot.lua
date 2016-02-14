@@ -212,7 +212,6 @@ function create_config( )
     "lockchat",
     "info",
     "pluginns",
-    "plugins",
     "inrealm",
     "ingroup",
     "inpm",
